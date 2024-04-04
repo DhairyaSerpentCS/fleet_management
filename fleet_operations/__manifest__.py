@@ -40,7 +40,7 @@
         "wizard/vehicle_change_history_view.xml",
         "wizard/repair_line_summary_view.xml",
     ],
-    "images": ["static/description/fleet_operations_banner.png"],
+    "images": ["static/description/Banner_Fleet_Operation.png"],
     "assets": {
         "web.assets_backend": [
             "fleet_operations/static/src/views/kanban/WebDisableDragDropKanban.esm.js",
